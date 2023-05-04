@@ -1,0 +1,14 @@
+{
+    "feedbacks": [
+      {
+        "id": 1,
+        "rating": "good",
+        "comment": "The support team was very helpful and knowledgeable."
+      },
+      {
+        "id": 2,
+        "rating": "bad",
+        "comment": "I had a very frustrating experience trying to get help."
+      }
+    ]
+  }
